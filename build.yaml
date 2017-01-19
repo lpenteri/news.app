@@ -6,5 +6,7 @@ platform:
     version: 14.04
     arch: i686
 
+api: 0.6.0
+
 package:
   - *
