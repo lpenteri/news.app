@@ -14,9 +14,8 @@ package:
   - eventclient.js
   - feedlyclient.js
   - grunt.js
-  - locales/  
+  - locales/en-GB/messages.pot
+  - locales/it-IT/messages.pot 
   - newsapp.js
   - package.json
   - users.json
-  - additional_games/
-  - games/
