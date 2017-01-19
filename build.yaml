@@ -7,7 +7,9 @@ platform:
     arch: i686
 
 install:
-    npm install
+  -  npm install
+
+api: 0.7.3
 
 package:
   - conf.js
