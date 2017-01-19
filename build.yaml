@@ -10,4 +10,13 @@ install:
     npm install
 
 package:
-  - ./*
+  - conf.js
+  - eventclient.js
+  - feedlyclient.js
+  - grunt.js
+  - locales/  
+  - newsapp.js
+  - package.json
+  - users.json
+  - additional_games/
+  - games/
