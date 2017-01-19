@@ -1,0 +1,32 @@
+{
+    "users": 
+    [
+        {
+             "username": "leizer",
+             "first_name": "Lazaros",
+             "last_name": "Penteridis",
+             "locale": "en-GB",
+             "topics": ["politics", "economy", "business"],
+             "feeds": [{
+                           "rss": "http://feeds.bbci.co.uk/news/england/rss.xml?edition=uk",
+                           "tags": ["England local"]
+                       }, 
+                       {
+                           "rss": "http://blah.com/rssfeed?parish",
+                           "tags": ["church", "parish"]
+                       }]
+        },
+        {
+             "username": "blah",
+             "first_name": "blah",
+             "last_name": "blah",
+             "locale": "en-GB",
+             "topics": ["politics", "economy", "business"],
+             "feeds": [{
+                           "rss": "htt://blah.com",
+                           "tags": ["blah"]
+                       }]
+        }
+    ]
+}
+        

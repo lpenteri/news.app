@@ -1,0 +1,29 @@
+{
+  "name": "news.app",
+  "version": "0.1.0",
+  "description": "News app for the Kompai Robot specialized on elderly users",
+  "main": "newsapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "News",
+    "app",
+    "dementia",
+    "elderly",
+    "MARIO",
+    "Kompai",
+    "Robotic",
+    "app",
+    "elderly"
+  ],
+  "author": "Lazaros Penteridis",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "feed-read": "0.0.1",
+    "html-entities": "^1.2.0",
+    "mongodb": "^2.2.9",
+    "node-gettext": "^1.1.0",
+    "striptags": "^2.1.1"
+  }
+}
